@@ -1,0 +1,12 @@
+{
+  "name": "node-imgur-proxy",
+  "version": "0.0.2",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "request": "2.16.6",
+    "q": "0.9.3"
+  }
+}
