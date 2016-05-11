@@ -6,7 +6,8 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "request": "2.16.6",
-    "q": "0.9.3"
+    "express": "^3.21.2",
+    "q": "0.9.3",
+    "request": "2.16.6"
   }
 }
